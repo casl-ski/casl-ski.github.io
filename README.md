@@ -10,6 +10,6 @@ Lors de mon parcours, j'ai eu la chance de participer au démarrage de l'entrepr
 (wip)
 
 ## Projets
-[Point Laz](https://www.pointlaz.com/)
-[Article sur un voyage de ski aux États-Unis](https://www.estski.ca/blogue/1-printemps-7-etats-7-sommets/)
-[Article sur un voyage de ski en Roumanie & Turquie](https://www.estski.ca/blogue/a-cheval-entre-leurope-de-lest-et-lasie-de-louest/)
+ - [Point Laz](https://www.pointlaz.com/)
+ - [Article sur un voyage de ski aux États-Unis](https://www.estski.ca/blogue/1-printemps-7-etats-7-sommets/)
+ - [Article sur un voyage de ski en Roumanie & Turquie](https://www.estski.ca/blogue/a-cheval-entre-leurope-de-lest-et-lasie-de-louest/)
